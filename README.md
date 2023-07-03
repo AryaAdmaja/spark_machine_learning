@@ -1,6 +1,6 @@
-## Nama      : Muhammad Hamamiy Zadah
+## Nama      : Arya Admaja
 ## Kelas     : TI - 3C
-## No. Absen : 12
+## No. Absen : 04
 ##
 
 ### Slide 30
@@ -33,8 +33,8 @@ Import library ml KMeans dan Vectors. kemudian load kmeans_data.txt . Selanjutny
 
 
 ### Slide 53-54
-Import library Kmeans, Numpy, dan Math. Kemudian membaca file kmeans_data.txt setelah itu melakukan mapping dengan patokan tiap data dipisahkan menggunakan delimiter spasi . kemudian training data dengan Kmeans. dengan jumlah kluster 2 dan maksimal iterasi 10. Menghitung WSSE dari parsedData kemudian melakukan saving model pada zadah_prak.
+Import library Kmeans, Numpy, dan Math. Kemudian membaca file kmeans_data.txt setelah itu melakukan mapping dengan patokan tiap data dipisahkan menggunakan delimiter spasi . kemudian training data dengan Kmeans. dengan jumlah kluster 2 dan maksimal iterasi 10. Menghitung WSSE dari parsedData kemudian melakukan saving model pada arya_prak.
 ![Screenshot ](image/08.png)
 
-Jika dilihat pada sidebar, maka akan terbentuk file clusters yang telah disimpan pada folder zadah_prak.
+Jika dilihat pada sidebar, maka akan terbentuk file clusters yang telah disimpan pada folder arya_prak.
 ![Screenshot ](image/09.png)
