@@ -37,4 +37,5 @@ Import library Kmeans, Numpy, dan Math. Kemudian membaca file kmeans_data.txt se
 ![Screenshot ](image/08.png)
 
 Jika dilihat pada sidebar, maka akan terbentuk file clusters yang telah disimpan pada folder arya_prak.
-![Screenshot ](image/09.png)
+
+
